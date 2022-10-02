@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757697922331",
+    "firebase_url": "https://sustainable-farm-ad936-default-rtdb.firebaseio.com",
+    "project_id": "sustainable-farm-ad936",
+    "storage_bucket": "sustainable-farm-ad936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757697922331:android:eb342e258ed8fec070bfbe",
+        "android_client_info": {
+          "package_name": "com.example.sfarm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757697922331-b6vfe36kb3qjhsn72etijfatbm1174u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBdcCHdZy__qykiT0I5rHxMzHaRZCGHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757697922331-b6vfe36kb3qjhsn72etijfatbm1174u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757697922331-7hq0tmeapk1s0kugluha4v7kh4646lna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
